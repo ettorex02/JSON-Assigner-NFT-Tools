@@ -5,3 +5,9 @@ In this file you can find 3 functions:
 1. The first function is the main one that lets you assign json file to an entire collection of img.
 2. The second one is the function RENAMER, that let's you rename your images in a predefined range(0 to "number of imgs").
 3. The third function is part of the first and is called ASSIGNER, you can use it if you need to assign only one JSON file.
+
+NOTE
+This is the v0.1 of the program, in the future i will add more features and propably new kind of tools that i'm currently programming.
+
+TBA
+- Program to create NFTs with layers.
